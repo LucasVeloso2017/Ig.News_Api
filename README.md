@@ -23,7 +23,6 @@ O Ignews Api é uma plataforma de CRUD(Create,Read,Update and Delete) de noticia
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <br/>
-<img src="https://raw.githubusercontent.com/Thalhammer/jwt-cpp/master/.github/logo.svg" style="width:100px;"/>
 
 <label style='background-color:lightgray;padding:5px;color:white;font-weight:bold;'><span style="color: rgb(232, 53, 36);">Type</span><span style="color: rgb(0, 0, 0);">ORM</span>
 </label>
