@@ -1,5 +1,5 @@
 
-<img alt="Logo do ServeRest" src="./logo2.png" height="120" style="background-color:black;border-radius:10px;padding:10px;">
+<img alt="Logo do ServeRest" src="./logo.svg" height="120" style="background-color:black;border-radius:10px;padding:10px;">
 <a href="https://www.linkedin.com/in/lucas-veloso-assa-galego-661274174/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
