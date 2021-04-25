@@ -1,7 +1,7 @@
 
 <div style="text-align:center">
 <img alt="" src="./logo.svg" height="120" style="background-color:black;border-radius:10px;padding:10px;">
-<img alt="" src="./src/assets/avatar.svg">
+<img alt="" src="./avatar.svg">
 
 
 </div>
