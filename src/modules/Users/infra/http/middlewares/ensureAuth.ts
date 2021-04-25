@@ -16,6 +16,8 @@ export default function ensureAuth(request:Request,response:Response,next:NextFu
 
     const authHeader = request.headers.authorization 
     
+
+
     if(!authHeader){
         throw new AppError('Missing Token',401)
     }

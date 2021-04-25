@@ -12,6 +12,7 @@ export default class UserPostsController {
 
         const posts = await allPost.execute({user_id})
         
+        response.setHeader('user-token',request.user.id)
         return response.json(posts)
     }
     

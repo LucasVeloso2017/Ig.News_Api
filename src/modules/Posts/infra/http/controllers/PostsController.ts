@@ -21,6 +21,7 @@ export default class PostsController {
             user_id
         })
 
+        response.setHeader('user-token',request.user.id)
         return response.json(post)
     }
 
@@ -33,6 +34,7 @@ export default class PostsController {
             post_id:id
         })
 
+        response.setHeader('user-token',request.user.id)
         return response.json(post)
     }
 
@@ -58,6 +60,7 @@ export default class PostsController {
             user_id
         })
 
+        response.setHeader('user-token',request.user.id)
         return response.json(post)
     }
 
@@ -70,6 +73,7 @@ export default class PostsController {
             post_id:id
         })
 
+        response.setHeader('user-token',request.user.id)
         return response.json(post)
     }
 

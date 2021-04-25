@@ -30,6 +30,7 @@ export default class UsersController {
             user_id:id
         })
 
+        response.setHeader('user-token',request.user.id)
         return response.json(user)
     }
     
@@ -45,6 +46,7 @@ export default class UsersController {
             password,
         })
 
+        response.setHeader('user-token',request.user.id)
         return response.json(user)
     }
 
@@ -57,6 +59,7 @@ export default class UsersController {
             user_id:id
         })
 
+        response.setHeader('user-token',request.user.id)
         return response.json(user)
     }
 
