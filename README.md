@@ -1,5 +1,10 @@
 
-<img alt="Logo do ServeRest" src="./logo.svg" height="120" style="background-color:black;border-radius:10px;padding:10px;">
+<div style="text-align:center">
+<img alt="" src="./logo.svg" height="120" style="background-color:black;border-radius:10px;padding:10px;">
+<img alt="" src="./src/assets/avatar.svg">
+
+
+</div>
 <a href="https://www.linkedin.com/in/lucas-veloso-assa-galego-661274174/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,10 +28,8 @@ O Ignews Api é uma plataforma de CRUD(Create,Read,Update and Delete) de noticia
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <br/>
+<img src="https://img.shields.io/badge/Typeorm-20232A?style=for-the-badge&logo=typeorm&logoColor=61DAFB" />
 
-<label style='background-color:lightgray;padding:5px;color:white;font-weight:bold;'><span style="color: rgb(232, 53, 36);">Type</span><span style="color: rgb(0, 0, 0);">ORM</span>
-</label>
-<br/>
 
 ### 🏃 Iniciando
 
